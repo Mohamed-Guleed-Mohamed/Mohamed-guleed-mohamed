@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **javasctipt html css react native node.js**
 
-- 📫 How to reach me **joogkacbso@gmailc.om**
+- 📫 How to reach me **joogkacbso@gmail.com**
 
 - ⚡ Fun fact **i think react native**
 
